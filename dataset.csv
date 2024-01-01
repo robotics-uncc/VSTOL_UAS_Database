@@ -1,0 +1,189 @@
+Type,Vendor,Model,Speed (mph),Size (ft),MTOW (lbs), Payload (lbs),Payload Fraction,Flight Time (min),COG,UAS Group
+Helicopter,VELOS ,V3,74.56,6.38,55,35,0.64,80,USA,2
+Helicopter,Aerovironment,VAPOR,33,7.5,65,20,0.31,75,USA,3
+Helicopter,UAVOS,UVH 25EL,62.14,8.76,55,11.03,0.2,90,USA,2
+Helicopter,Steadicopter,Black Eagle 50H,78.29,9.19,110.25,26.46,0.24,300,Israel,3
+Helicopter,Anduril,Ghost,85,8.9,37,10,0.27,55,USA,2
+Helicopter,UAVOS,UVH 170,74,10.8,99,33,0.33,300,USA,3
+Helicopter,Aeroscout,Scout B1-100,55,10.8,170,40,0.24,90,Switzerland,3
+Helicopter,UMS Skeldar,V-150,74.6,11.5,330.7,88,0.27,300,Switzerland,3
+Helicopter,ZIYAN UAS,Falcon-10,80.78,5.43,55.12,15.43,0.28,50,China,3
+Helicopter,ZIYAN UAS,Blowfish A2G,62.14,6.14,86,26.5,0.31,60,China,3
+Helicopter,ZIYAN UAS,Ranger P2X PTK,62.14,5.55,39.7,2.87,0.07,120,China,2
+Helicopter,Alpha Unmanned Systems,Alpha 800,34.17,5.9,30.87,4.4,0.14,150,Spain,2
+Helicopter,Swiss Drones,SDO 50 V2,44.73,9.25,191.8,88.2,0.46,186,Switzerland,3
+Helicopter,Schiebel,Camcopter S-100,115.1,11.15,441,110,0.25,360,Austria,3
+Helicopter,Steadicopter,Black Eage 50E,80.55,9.19,110.25,33.08,0.3,120,Israel,3
+Helicopter,Steadicopter,Black Eage 50,80.55,8.33,77.18,11.03,0.14,,Israel,3
+Helicopter,FLIR ,Black Hornet ,13.4,0.55,0.73,0,0,25,USA,1
+Helicopter,4Front Robotics,Navig8 Electric,27.96,2.13,24.25,11.02,0.45,45,Canada,2
+Helicopter,4Front Robotics,Navig8-32 Gas,96.31,9.83,200,44,0.22,100,Canada,3
+Helicopter,ZALA ,421-02,55.92,10.05,297.62,88.18,0.3,360,Russia,3
+Helicopter,ZALA ,421-06,80.55,5.8,26.46,4.41,0.17,90,Russia,2
+Helicopter,Indela,I.N. Sky,43.5,10.4,308.65,55.12,0.18,360,Belarus,3
+Helicopter,Drone Hopper,Nuntius,55.9,5.15,33.1,6.61,0.2,150,Spain,2
+Helicopter,Drone Hopper,Titanium,74.6,7.22,55.12,22.05,0.4,180,Spain,3
+Helicopter,Steadicopter,Black Eagle 35E,80.55,8.33,77.18,15.44,0.2,90,Israel,3
+Helicopter,4Front Robotics,Navig8-56 Gas,124.27,10.25,275,70,0.25,150,Canada,3
+FPV Multirotor,DJI ,FPV,87,0.83,4.01,2.21,0.55,20,China,1
+FPV Multirotor,DRL,RacerX,179,0.8,1.8,,,,USA,1
+FPV Multirotor,Lumenier,QAV-PRO,118,2.3,10,3,0.3,20,USA,1
+FPV Multirotor,DJI ,Avata,67,0.6,3.07,2.16,0.7,18,China,1
+Multirotor,Parrot ,ANAFI USA,33,1.2,1.42,0.32,0.23,32,France,1
+Multirotor,Skydio,Skydio 2+,36,0.9,1.7,0,0,27,USA,1
+Multirotor,Skydio,Skydio X2,25,2.87,3.25,0.33,0.1,35,USA,1
+Multirotor,DJI,Mavic 3,47,1.14,12.1,10,0.83,43,China,1
+Multirotor,Height Technologies,MI-3,38,4.17,24.5,6.6,0.27,90,Netherlands,2
+Multirotor,Lockheed Martin,Indago  3,46,3.8,5,1.26,0.25,70,USA,1
+Multirotor,Teledyne FLIR,Skyranger R70,31,4.42,29.7,7.7,0.26,59,USA,2
+Multirotor,Ascent Technologies,Spirit,60,2.13,13.5,6.5,0.48,32,USA,1
+Multirotor,STM,Kargu,44,3.2,17.9,2.86,0.16,30,Turkey,1
+Multirotor,Inspired Flight,IF800,56,4.43,16.9,6.6,0.39,,USA,1
+Multirotor,Acecore Technologies,Zoe Zetona 8,57,3.08,26.35,4.85,0.18,2,Netherlands,2
+Multirotor,Ascent Technologies,NX30,60,3,30,15.3,0.51,37,USA,2
+Multirotor,Performance Drone Works,C100,45,5.42,34,15,0.44,60,USA,2
+Multirotor,Lucid,Sherpa,50,4,35,,,20,USA,2
+Multirotor,Wave Aerospace,Falcon II LE ,72,4.2,44,20,0.45,60,USA,2
+Multirotor,Draganfly,Commander 3 XL,45,5.3,55,22,0.4,50,Canada,2
+Multirotor,Wave Aerospace,X-5B Huntress,109,6.4,100,50,0.5,120,USA,3
+Multirotor,Free Fly Systems,Alta X,60,7.5,77,35,0.45,50,USA,3
+Multirotor,DJI,Matrice 350 RTK,51.45,2.94,20.28,5.95,0.29,55,China,2
+Multirotor,DJI,Matrice 30,51.45,2.19,22.07,13.1,0.59,41,China,2
+Multirotor,DJI,Mavic 2 Enterprise Advanced,44.7,1.16,2.43,0.42,0.17,31,China,1
+Multirotor,Sony,Airspeak S1,55.9,2.13,15.38,5.5,0.36,22,USA,1
+Multirotor,Draganfly ,Heavy Lift Drone,49.21,10.39,97,67,0.69,54.5,Canada,3
+Multirotor,Sky Drones,X700,37.3,2.3,13.2,8.82,0.67,60,UK,1
+Multirotor,Aerialtronics,Altura Zenith ATX8,35.7,1.97,21.28,6.62,0.31,40,UK,2
+Multirotor,Sky Drones,Full Throttle Aerial Interceptor,34.5,2.25,22.4,13.2,0.59,43,UK,2
+Multirotor,Indro Robotics,Wayfinder,34.18,7.46,44.09,33.07,0.75,50,Canada,2
+Multirotor,Indro Robotics,Endurance,21.75,2.38,22.05,11.03,0.5,40,Canada,2
+Multirotor,Harris Aerial,Carrier H6,33.56,7.86,50.72,11.03,0.22,300,USA,2
+Multirotor,Harris Aerial,Carrier H6 Hydrone,33.56,5.31,55.13,11.03,0.2,120,USA,3
+Multirotor,Inspired Flight,IF750,40,3.17,15,4.6,0.31,37,USA,1
+Multirotor,Inspired Flight ,IF 1200,49,4.7,48.5,19,0.39,24,USA,2
+Multirotor,BlueHalo,Intense Eye 2,40,2.46,13,3.5,0.27,44,USA,1
+Multirotor,Eurolink Systems,Belugadrone,69.35,3.22,22.05,6.62,0.3,60,Italy,2
+Multirotor,Aibotix,X6v2,25,3.44,14.55,4.41,0.3,20,Italy,1
+Multirotor,Drone Hopper,X-Quad,55.92,7.02,66.15,44.1,0.67,,Spain,3
+Multirotor,Drone Hopper,DH-Agro Hopper16,55.92,7.44,54.02,35.28,0.65,10,Spain,2
+Multirotor,T-Drones ,MX860,44.74,2.82,44,19.84,0.45,40,China,2
+Multirotor,T-Drones,M690 Pro,33.56,3.12,13.23,5.31,0.4,55,China,1
+Multirotor,FLIR,R80D SkyRaider,31,4.42,13.76,2.76,0.2,40,USA,1
+Quadplane/Tiltrotor,Krossblade,Prowler,80,3.6,5.07,2.9,0.57,55,USA,1
+Quadplane/Tiltrotor,Quantum Systems,Trinity F90,38,7.9,11,1,0.09,90,Germany,1
+Quadplane/Tiltrotor,Deltaquad,Deltaquad Pro,62.6,7.7,13.7,2.65,0.19,120,Netherlands,1
+Quadplane/Tiltrotor,C-Astral,SQA eVTOL,67,9.5,22,2.2,0.1,150,Slovenia,2
+Quadplane/Tiltrotor,CUAV ,Raefly VT260,67,8.7,30,5.5,0.18,210,China,2
+Quadplane/Tiltrotor,Tekever ,A3,56,11.5,55,8.8,0.16,960,Portugal,2
+Quadplane/Tiltrotor,Aurora Flight Sciences,SKIRONX,58.2,16.5,49,3.2,0.07,180,USA,2
+Quadplane/Tiltrotor,CUAV ,Raefly VT370,60.4,7.97,77,3.3,0.04,600,China,3
+Quadplane/Tiltrotor,JOUAV,CW-30E,56,14.4,84,17.7,0.21,480,China,3
+Quadplane/Tiltrotor,L3 Harris,FVR-90,75,15.4,120,32,0.27,960,USA,3
+Quadplane/Tiltrotor,Woot Tech,Alien X VTOL,93,15,120,22,0.18,360,USA,3
+Quadplane/Tiltrotor,Edge Autonomy,VXE30,57.55,16,44,5.5,0.13,480,USA,2
+Quadplane/Tiltrotor,Edge Autonomy,Penguin C Mk 2.5,74.82,13.5,70,,,720,USA,3
+Quadplane/Tiltrotor,Ukrspec Systems,PD-2,86.99,16.4,121.28,24.26,0.2,480,Ukraine,3
+Quadplane/Tiltrotor,Ukrspec Systems,Leleka 100,43.5,6.5,12.13,1,0.08,150,Ukraine,1
+Quadplane/Tiltrotor,Sky Drones,SkyLane-250,58.16,8.2,33.08,2.65,0.08,210,UK,2
+Quadplane/Tiltrotor,Sky Drones,SkyLane-350,62.64,11.48,77.18,15.44,0.2,330,UK,3
+Quadplane/Tiltrotor,Sky Drones,Action Drone AD-VW1,78.29,8.2,26.46,4.41,0.17,150,UK,2
+Quadplane/Tiltrotor,Elevonx,Skyeye Sierra ,68.35,10.17,27.56,11.03,0.4,300,Slovenia,2
+Quadplane/Tiltrotor,Elevonx,Tango VTOL,77.67,9.84,41.9,11.03,0.26,360,Slovenia,2
+Quadplane/Tiltrotor,Hammerhead ,eV20,38.03,9.52,176,44,0.25,60,USA,3
+Quadplane/Tiltrotor,Woot Tech,Firebolt,268.44,9.84,79.38,22.05,0.28,60,USA,3
+Quadplane/Tiltrotor,Woot Tech,Firefly,111.85,8.86,37.49,6.62,0.18,60,USA,2
+Quadplane/Tiltrotor,Tekever ,A4,33.55,6.89,8.82,2.21,0.25,120,Portugal,1
+Quadplane/Tiltrotor,Carbonix,Domani,62.64,14.76,88.2,6.62,0.08,480,Australia,3
+Quadplane/Tiltrotor,Carbonix,Volanti,62.64,11.81,35.28,2.21,0.06,120,Australia,2
+Quadplane/Tiltrotor,Aeronautics ,Trojan,55.92,13.78,99.23,26.46,0.27,150,Israel,3
+Quadplane/Tiltrotor,BlueBird,WanderB-VTOL,74.82,10.17,28.67,2.98,0.1,150,Israel,2
+Quadplane/Tiltrotor,Threod Systems,EOS VTOL UAS,66.76,16.4,31.1,2.42,0.08,180,Estonia,2
+Quadplane/Tiltrotor,Threod Systems,Stream C VTOL,98.99,12.8,83.79,22.05,0.26,360,Estonia,3
+Quadplane/Tiltrotor,Soko Aerial,ARACE ROC,71.58,8.2,29.77,5.51,0.19,210,Ghana,2
+Quadplane/Tiltrotor,Aerovironment,Jump 20,58,18.8,215,30,0.14,840,USA,3
+Quadplane/Tiltrotor,Event 38 Unmanned Systems,E400,35.68,9.83,20,3,0.15,90,USA,1
+Quadplane/Tiltrotor,T-Drones,VA25,74.56,8.2,28.67,4.41,0.15,210,China,2
+Quadplane/Tiltrotor,Flight Wave,Edge 130 Blue,65,4.25,3.41,0.76,0.22,120,USA,1
+Quadplane/Tiltrotor,Aeronautics,Orbiter 4,80.57,17.06,121.28,26.46,0.22,1440,Israel,3
+Quadplane/Tiltrotor,Lockheed Martin ,Stalker XE,44.89,12,30,5.5,0.18,480,USA,2
+Tailsitter,Wingtra,Wingtra One,36,4.1,9.9,1.8,0.18,59,Switzerland,1
+Tailsitter,Hiveground,Vetal,67.1,4.3,10.1,1.7,0.17,60,Thailand,1
+Tailsitter,Army Research Lab ,CRC-20,40,4.9,21,,,,USA,2
+Tailsitter,Volatus,Flexrotor,87,9.8,55,17,0.31,1800,Canada,2
+Tailsitter,Shield AI,V-BAT,103,9.7,125,25,0.2,600,USA,3
+Tailsitter,Bell,Bell APT 70,127,9,300,60,0.2,55,USA,3
+Tailsitter,Wave Aerospace,Sea Huntress II VTOL,300,13.1,352,110,0.31,120,USA,3
+Tailsitter,Atmos,Maryln UAV,40,5.2,14.2,2.2,0.15,50,Netherlands,1
+Tailsitter,Cleo,Dronut X1,8.95,0.54,0.97,,,12,USA,1
+Tailsitter,Aurora Flight Sciences,Skate UAV,57.55,2,2.21,0.44,0.2,,USA,1
+Fixed-wing,Aerovironment,Raven B RQ-11,50,4.5,4.4,1.87,0.43,75,USA,1
+Fixed-wing,C-Astral,Bramor ppX,49,7.5,10.4,2.2,0.21,210,Slovenia,1
+Fixed-wing,Aerovironment,Wasp III,40,2.38,14.4,13.3,0.92,45,USA,1
+Fixed-wing,Aerovironment,Puma 3 AE,47,9.2,15,4,0.27,150,USA,1
+Fixed-wing,Black Swift,S2,40,10,20.8,5,0.24,110,USA,2
+Fixed-wing,Aeronautics ,Orbiter 1K,57,9.51,28.7,6.61,0.23,120,Israel,2
+Fixed-wing,Textron,Aerosonde Mk 4.7 HQ,74.8,12,80,20,0.25,840,USA,3
+Fixed-wing,Boeing Insitu,ScanEagle 3,92,13,80,19,0.24,1080,USA,3
+Fixed-wing,Aerovironment,T-20,86,17.5,185,75,0.41,1440,USA,3
+Fixed-wing,Northrup Grumman,Bat UAS,102,12,210,75,0.36,480,USA,3
+Fixed-wing,Resolute ISR,Resolute Eagle,143,18.2,300,100,0.33,720,USA,3
+Fixed-wing,Ukrspec Systems,Shark UAS,80.78,11.15,27.56,1,0.04,240,Ukraine,2
+Fixed-wing,Ukrspec Systems,Mini Shark,74.56,6.56,11.03,1,0.09,120,Ukraine,1
+Fixed-wing,ElevonX,Skyeye Delta,62.14,7.51,13.78,4.41,0.32,210,Slovenia,1
+Fixed-wing,ElevonX,Skyeye Sierra,77.67,9.84,27.56,11.03,0.4,480,Slovenia,2
+Fixed-wing,AgEagle ,eBee X,68.35,3.81,3.53,1.76,0.5,90,USA,1
+Fixed-wing,EMT ,Aladin,55.92,4.79,8.82,1.65,0.19,,Germany,1
+Fixed-wing,Lockheed Martin ,Desert Hawk III,57.55,4.92,10.2,2,0.2,90,USA,1
+Fixed-wing,Lockheed Martin ,Desert Hawk IV,63.31,4.92,10.2,2,0.2,150,USA,1
+Fixed-wing,Lockheed Martin ,Desert Hawk EER,40.29,12,24,6,0.25,600,USA,2
+Fixed-wing,EMT ,Luna X-2000,43,13.7,88,44,0.5,480,Germany,3
+Fixed-wing,IDETEC,AG-Wing,46.6,5.09,4.19,1.32,0.32,45,Chile,1
+Fixed-wing,Aeronautics,Orbiter 2,57.55,9.84,28.67,3.97,0.14,180,Israel,2
+Fixed-wing,Aeronautics,Orbiter 3,80.57,14.44,70.56,12.13,0.17,360,Israel,3
+Fixed-wing,Aeronautics,Orbiter 5,80.57,21,165.38,55.13,0.33,1500,Israel,3
+Fixed-wing,IDS Corporation,IA-17 Manta,124.27,9.19,55.13,5.5,0.1,300,Italy,3
+Fixed-wing,Aircraft Traders Belgium,Guaridan Eye,99.42,7.22,13.23,4.41,0.33,240,Belgium,1
+Fixed-wing,National Chung-Shan Institute of Science and Technology,Cardinal II,34,6.2,13,4,0.31,,Taiwan,1
+Fixed-wing,L3 Harris ,Cutlass,97.84,4.6,15,3,0.2,60,USA,1
+Fixed-wing,Aeroland ,AL-4 ,62,6.56,9.3,2.2,0.24,60,China,1
+Fixed-wing,WB Group,Flyeye mini UAV,74.56,11.81,26.46,4.41,0.17,150,Poland,2
+Fixed-wing,Survey Copter,Tracker 120,55.93,10.83,19.18,2.43,0.13,90,France,1
+Fixed-wing,Aerofoundry,Watupa-e,31.07,15.09,22.05,4.41,0.2,360,Brazil,2
+Fixed-wing,ZALA,421-08,80.78,2.66,4.63,0.66,0.14,100,Russia,1
+Fixed-wing,ZALA,421-04M,74.56,5.25,9.26,2.21,0.24,120,Russia,1
+Fixed-wing,ZALA ,421-16,93.21,5.31,39.69,6.62,0.17,420,Russia,2
+Fixed-wing,C-Astral,Bramor C4EYE,67.11,7.55,10.36,2.21,0.21,210,Slovenia,1
+Fixed-wing,FT Sistemas,FT-100,37.98,8.86,15.44,6.62,0.43,120,Brazil,1
+Fixed-wing,Event 38 Unmanned Systems,E384,45,6.23,5.6,4,0.71,90,USA,1
+Fixed-wing,Event 38 Unmanned Systems,E386,45,6.23,5.6,1.1,0.2,85,USA,1
+Fixed-wing,ZOHD,Talon Rebel,62.14,3.28,2.77,,,,China,1
+Fixed-wing,EADS Cassidian,Tracker / DRAC,62.14,11.81,18.74,2.21,0.12,90,France,1
+Fixed-wing,Lockheed Martin ,Stalker XE,58,16,48,5.5,0.11,480,USA,2
+Fixed-wing,SPE Athlon Avia,A1-S Furia,62.14,6.4,12.13,,,180,Ukraine,1
+Fixed-wing,STM,Alpagut,223.7,8.2,121.28,24.26,0.2,60,Turkey,3
+Fixed-wing,Tekever,AR1 Blue Ray,34.18,5.91,16.4,,,180,Portugal,1
+Fixed-wing,Tekever,AR4 Light Ray Compact,36.04,3.61,6.56,,,45,Portugal,1
+Fixed-wing,Tekever,AR4 Light Ray Evolution,49.71,3.61,6.56,,,45,Portugal,1
+Fixed-wing,Baykar,Bayraktar Mini,46.04,6.56,32.48,,,80,Turkey,2
+Fixed-wing,Blue Bear Systems Research,Blackstart,74.56,4.92,16.4,,,60,UK,1
+Fixed-wing,Raytheon,Coyote,97.56,4.82,21,,,90,USA,2
+Fixed-wing,Leonardo Airborne & Space Systems,CREX-B,68.35,5.58,6.89,,,75,Italy,1
+Fixed-wing,Integrated Dynamics,Desert Hawk,62.14,4.92,14.76,,,60,Spain,1
+Fixed-wing,Israel Aerospace Industries,Green Dragon,230,5.58,49.21,,,75,Israel,2
+Fixed-wing,MicroUAV,HawkMoth,103.77,6.5,13.39,,,120,USA,1
+Fixed-wing,Sky-Watch,Heidrun V1,66.49,5.41,7.22,,,,Denmark,1
+Fixed-wing,UVision,HERO-120,74.56,1.97,27.56,7.72,0.28,60,Israel,2
+Fixed-wing,Irkut Engineering,Irkut-3,55.3,6.56,9.84,,,75,Russia,1
+Fixed-wing,BlueBird Aero Systems,MicroB,51.8,3.1,2.2,0.53,0.24,60,Israel,1
+Fixed-wing,Innocon,MicroFalcon LP,74.56,5.91,13.23,4.41,0.33,120,Israel,1
+Fixed-wing,Sparkle Tech,Pigeon,62.14,3.94,4.19,1.1,0.26,90,Hong Kong,1
+Fixed-wing,Integrated Dynamics,Pride,62.14,5,9.9,1.1,0.11,60,Spain,1
+Fixed-wing,UCONSYSTEM,REMOEYE-002B,49.71,5.91,11.15,,,60,South Korea,1
+Fixed-wing,Integrated Dynamics,Rover Mk I,62.14,4.92,6.56,,,45,Spain,1
+Fixed-wing,Integrated Dynamics,Skycam-W,60,3.3,5.5,1.1,0.2,90,Spain,1
+Fixed-wing,Skywalker,Skywalker X6,24.85,4.92,4.41,,,25,China,1
+Fixed-wing,Blackbar Engineering,STORM,112.8,7.58,12,,,80,USA,1
+Fixed-wing,IPCD,Tactical UAV,49.71,5.58,4.41,,,45,Indonesia,1
+Fixed-wing,Lockheed Martin,Vector Hawk,80.78,3.61,3.97,0.75,0.19,70,USA,1
+Fixed-wing,WB Group,Warmate,93.21,4.59,12.57,3.09,0.25,50,Poland,1
+Fixed-wing,Innocon,MicroFalcon LE,74.82,6.56,22.05,4.41,0.2,240,Israel,2
